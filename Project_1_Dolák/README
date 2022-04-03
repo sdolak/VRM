@@ -1,0 +1,5 @@
+**VRM - Project no. 1**
+
+This project is a simple pick and place simulation in ABB Robot Studio where two robots communicate using a conveyor belt.
+
+User can choose which color will the first robot place on the conveyor belt, second robot waits until the tab can be picked up and then places it in a box and closes it.
